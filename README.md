@@ -1,7 +1,7 @@
 # Visually Salient Text (VST)
 Visual saliency is the distinct quality which makes some items stand out from the others and grab our attention.
 
-**This project uses Deep Learning to extract Salient text from an image using State-of-the-Art Visual Transformer Architecture.**
+**This project uses Deep Learning to extract Salient text from an image using State-of-the-Art Vision Transformer Architecture.**
 
 <br />
 
