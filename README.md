@@ -71,7 +71,7 @@ For images in the directory *Data/Dataset/images/image0.jpg*
 <br />
 
 ## Saliency Mask Visualization (Overlay)
-- Refer to SaliencyHeatmapVisualization.ipynb  
+- Refer to PredictionHeatmapVisualization.ipynb  
 
 <br />
 
