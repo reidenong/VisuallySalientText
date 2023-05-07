@@ -66,7 +66,7 @@ VisuallySalientText
 For images in the directory *Data/Dataset/images/image0.jpg*
 
 
-``` !python VST.py --test_paths Dataset/ ```  
+```$ python VST.py --test_paths Dataset/ ```  
 
 <br />
 
