@@ -11,7 +11,7 @@ Visual saliency is the distinct quality which makes some items stand out from th
 
 The model used is the [Visual Saliency Transformer](https://github.com/nnizhang/VST), which was trained on a synthetically generated dataset which focused on textual saliency considerations. This Dataset consists of images in the formats of news articles, memes, advertisements and other commonly found internet images. Usage of Text Saliency Models include filtering out noise in text-rich environments, as well as improving OCR quality when in the wild.  
 
-
+<br />
 
 
 ## Examples of Text Saliency used with EasyOCR
