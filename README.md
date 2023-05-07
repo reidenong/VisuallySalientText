@@ -3,8 +3,11 @@ Visual saliency is the distinct quality which makes some items stand out from th
 
 **This project uses Deep Learning to extract Salient text from an image using State-of-the-Art Visual Transformer Architecture.**
 
+<br />
+
 ![image](https://user-images.githubusercontent.com/65756407/236673237-2a9748d0-d069-4493-8ed7-d2708eefb4ae.png)  
 
+<br />
 
 The model used is the [Visual Saliency Transformer](https://github.com/nnizhang/VST), which was trained on a synthetically generated dataset which focused on textual saliency considerations. This Dataset consists of images in the formats of news articles, memes, advertisements and other commonly found internet images. Usage of Text Saliency Models include filtering out noise in text-rich environments, as well as improving OCR quality when in the wild.  
 
@@ -53,7 +56,7 @@ VisuallySalientText
     │   │   │   └── img0.jpg, img1.jpg...
 ...
 ```
-(***) Create the directories and download their respective model/weights for ![PretrainedModels](https://drive.google.com/file/d/1OhMg6u3gEp959zClZD8pki280ksgg_-1/view?usp=share_link) and ![Checkpoints](https://drive.google.com/file/d/1-aFTAnS4yZoCwrr4X3j6JsEfALliVYcH/view?usp=share_link)
+(***) Create the directories and download their respective model/weights for [PretrainedModels](https://drive.google.com/file/d/1OhMg6u3gEp959zClZD8pki280ksgg_-1/view?usp=share_link) and [Checkpoints](https://drive.google.com/file/d/1-aFTAnS4yZoCwrr4X3j6JsEfALliVYcH/view?usp=share_link)
 - The directory structure here is for the Optical Character Saliency Dataset, but will also work for any dataset with Image-Mask-Contour formatted directories 
 - Due to the small, convoluted nature of optical characters, the Contour Masks are largely unecessary for text saliency and can be replaced with a copy of the saliency masks  
 
